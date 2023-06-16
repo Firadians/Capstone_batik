@@ -19,5 +19,11 @@ In Dewangga, we have 3 main features
 * VGG16 Pre-trained Model
 * TFlite to deploy
 
+## How to Pull this repo
+<!-- * [License](#license) -->
+This project using TFLite to connect machine learning model and android and since the TFLite size is more than 100mb, so we separate the TFLite model.
+You can download the TFLite model [here](https://drive.google.com/drive/folders/19Km_3pPvakEHUPbEy1oOPKqzZH3u-Yrb?usp=sharing)
+After download tflite model, save it in src folder
+
 ## Ready APK
-If you want to download the APK you can access through this [link](https://drive.google.com/drive/folders/1luKBL4Awq4ZNx-_NSXmJokiufxvrG9vj?usp=drive_link)
+If you want to download the APK you can access through this [link](https://drive.google.com/drive/folders/1dhcaQDhJjIlK9MZDESjd_nKCh4yGaRqq?usp=drive_link)
