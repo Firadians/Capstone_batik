@@ -20,4 +20,4 @@ In Dewangga, we have 3 main features
 * TFlite to deploy
 
 ## Ready APK
-If you want to download the
+If you want to download the APK you can access through this [link](https://drive.google.com/drive/folders/1luKBL4Awq4ZNx-_NSXmJokiufxvrG9vj?usp=drive_link)
